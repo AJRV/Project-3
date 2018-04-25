@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Jua');
+
+body{
+	background-color: #FFF8DC;	
+	border-left: 100px solid #8B4513;
+font-family: 'Jua', sans-serif;
+}
+textarea{
+	width: 500%;
+	height: 150px;
+	font-size: 1em;
+	font-family: "Courier", monospace;
+}
+
+.main {
+	width: 90%;
+	margin: auto;
+	padding: 2em;
+
+}
+
